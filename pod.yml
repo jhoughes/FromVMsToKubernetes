@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: vmug-first-pod
+  labels:
+    project: vmug-demo
+spec:
+  containers:
+    - name: vmug-cntnr
+      image: joehoughes/vmugapp:1.01
+      ports:
+        - containerPort: 8080

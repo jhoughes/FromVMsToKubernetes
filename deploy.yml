@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vmug-deploy
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      project: vmug-demo
+  template:
+    metadata:
+      labels:
+        project: vmug-demo
+    spec:
+      containers:
+      - name: vmug-cntnr
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8080
+        image: jhoughes/qsk-book:1.01
+
