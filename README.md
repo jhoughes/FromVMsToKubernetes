@@ -5,3 +5,5 @@ The config files used in the demo are here, along with a shell script containing
 I will update this README with a link to the blog articles for building a Kubernetes cluster soon, or you can check the [FullStackGeek blog](https://www.fullstackgeek.net)
 
 #Adding a note to say hi from Canada 2021 VMUG Virtual UserCon
+
+#Adding a note to say hi from KC 2021 VMUG Virtual UserCon
