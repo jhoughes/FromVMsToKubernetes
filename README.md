@@ -7,3 +7,8 @@ I will update this README with a link to the blog articles for building a Kubern
 #Adding a note to say hi from Canada 2021 VMUG Virtual UserCon
 
 #Adding a note to say hi from KC 2021 VMUG Virtual UserCon
+
+#Adding a note to say hi from Cincy 2021 VMUG Virtual UserCon
+
+
+Hi Tim Smith
