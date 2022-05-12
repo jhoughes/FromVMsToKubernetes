@@ -11,4 +11,7 @@ I will update this README with a link to the blog articles for building a Kubern
 #Adding a note to say hi from Cincy 2021 VMUG Virtual UserCon
 
 
+
+Hey, we're back in person at Toronto 2022 Usercon
+
 Hi Tim Smith
