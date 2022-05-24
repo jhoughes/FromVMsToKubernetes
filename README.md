@@ -15,3 +15,5 @@ I will update this README with a link to the blog articles for building a Kubern
 Hey, we're back in person at Toronto 2022 Usercon
 
 Hi Tim Smith
+
+Hello from the Sydney 2022 Usercon
