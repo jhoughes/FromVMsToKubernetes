@@ -17,3 +17,5 @@ Hey, we're back in person at Toronto 2022 Usercon
 Hi Tim Smith
 
 Hello from the Sydney 2022 Usercon
+
+Hello from better & more well attended Melbourne VMUG
