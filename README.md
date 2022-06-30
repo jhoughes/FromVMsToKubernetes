@@ -19,3 +19,5 @@ Hi Tim Smith
 Hello from the Sydney 2022 Usercon
 
 Hello from better & more well attended Melbourne VMUG
+
+Hello from the 2022 Boston VMUG Usercon
