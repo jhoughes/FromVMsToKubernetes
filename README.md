@@ -4,6 +4,8 @@ The config files used in the demo are here, along with a shell script containing
 
 I will update this README with a link to the blog articles for building a Kubernetes cluster soon, or you can check the [FullStackGeek blog](https://www.fullstackgeek.net)
 
+Video link:  https://youtu.be/DTB0hg_g0j0
+
 
 Tags when using this for VMUG live code demos:
 #Adding a note to say hi from Canada 2021 VMUG Virtual UserCon
