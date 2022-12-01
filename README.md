@@ -25,3 +25,5 @@ Hello from better & more well attended Melbourne VMUG
 Hello from the 2022 Boston VMUG Usercon
 
 Howdy From Chicago 2022
+
+Howdy from Wisconsin 2022.  Hi Tony Reeves.
