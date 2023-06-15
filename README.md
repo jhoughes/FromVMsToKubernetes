@@ -8,6 +8,9 @@ Video link:  https://youtu.be/DTB0hg_g0j0
 
 
 Tags when using this for VMUG live code demos:
+
+#Adding a note to say hi from NY/NJ 2023 VMUG UserCon
+
 #Adding a note to say hi from Canada 2021 VMUG Virtual UserCon
 
 #Adding a note to say hi from KC 2021 VMUG Virtual UserCon
